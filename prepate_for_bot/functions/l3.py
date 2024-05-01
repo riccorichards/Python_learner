@@ -11,3 +11,7 @@
 10: Custom Sort Function: Write a function that sorts a list of tuples based on the second element of each tuple.
 
 '''
+def word_counter(str):
+    
+    return 
+print(word_counter("I am RiccoRichards, am dedicated developer. I improve my live with developer possition!"))
